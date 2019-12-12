@@ -1,0 +1,13 @@
+Thu Jul 11 22:59:42 CST 2013 : Apache Derby 网络服务器 － 10.8.1.2 - (1095077) 已启动并准备接受端口 1527 上的连接
+----------------------------------------------------------------
+Thu Jul 11 22:59:43 CST 2013:
+ 正在使用类加载器 sun.misc.Launcher$AppClassLoader@fb56b1 引导数据库
+目录 C:\PHTRS\db\PHTRS  中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077) 实例 a816c00e-013f-ce3e-b0d3-ffff8436ba02
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_21-b11
+user.dir=F:\Program Files\glassfish-3.1.2.2\javadb
+derby.system.home=C:\PHTRS\db
+数据库类装入器已启动 － derby.database.classpath=“”
+----------------------------------------------------------------
+Fri Jul 12 00:04:44 CST 2013: Shutting down Derby engine
